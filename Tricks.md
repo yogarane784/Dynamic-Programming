@@ -14,5 +14,7 @@
 
 ### Tabulation (Top down)
 - base condition of recursion/memoization becomes initialization steps of Top down
+    - eg. for i=0 and j=0 set values to 0 in LCS problem
+    - eg. for W=0 set 1, for n=0 set 0 in Knapsack
 
 - m becomes i and n becomes j in for loop
