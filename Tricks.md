@@ -18,3 +18,4 @@
     - eg. for W=0 set 1, for n=0 set 0 in Knapsack
 
 - m becomes i and n becomes j in for loop
+- When using Integer.MAX_VALUE to return, do -1 so that it doesn't overflow
